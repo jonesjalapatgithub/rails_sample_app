@@ -1,6 +1,6 @@
 ---
 applications:
-- name: rails-sample
+- name: rails-sampletum
   memory: 256M
   instances: 1
   path: .
